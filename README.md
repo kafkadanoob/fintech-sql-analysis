@@ -37,6 +37,12 @@ and was generated for the purpose of this project.
 - Friday recorded the highest transaction volume with 156 transactions
 - 35 out of 75 users averaged above the overall transaction average
 - Phebe Le Barr recorded the highest single-month spend in June 2025
+- Over the two-year period, the platform recorded $2.50M in total transaction volume across 1,000 transactions and 75 users
+- Dougie Aistrop is the highest spending user with a total spend of $70,412.59
+- New York generated the highest revenue by city at $476.18K, followed by Philadelphia ($327.19K) and Los Angeles ($354.59K)
+- June recorded the highest monthly transaction amount at $280K
+- Friday recorded the highest transaction volume with 158 transactions
+- Transactions are nearly evenly distributed across Successful (33.35%), Pending (34.49%), and Failed (32.16%) statuses
 
 ## Tools Used
 PostgreSQL 17, pgAdmin 4, Mockaroo
